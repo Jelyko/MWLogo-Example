@@ -1,0 +1,5 @@
+to tekening
+	;filename=huis.LGO
+
+	repeat 4 [fd 50 rt 90]
+end
