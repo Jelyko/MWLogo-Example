@@ -1,0 +1,28 @@
+to oprit
+	SETPENCOLOR [255 218 185]
+	SETFLOODCOLOR [255 218 185]
+
+	RT 30
+	FD 300
+
+	LT 120
+	FD 500
+
+	LT 60
+	FD 300
+
+	LT 120
+	FD 500
+
+	LT 90
+	FD 5
+
+	FILL
+
+	PU
+	HOME
+end
+
+to tekening
+	;filename=huis.LGO
+end
